@@ -27,4 +27,4 @@ For questions or support, please contact the dev team or open an issue.
 
 ---
 
-> _This is an internal tracking tool for the maxHq development team._
+> _This is an internal tracking tool for the MAX development team._
